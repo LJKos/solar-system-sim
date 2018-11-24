@@ -1,0 +1,195 @@
+Name: Aurinko
+Location: [0.0, 0.0, 0.0]
+Velocity: 0.0 m/s
+Acceleration: 0.0 m/s^2
+Mass: 1.9891e+30 kg
+Density: 1410.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Merkurius
+Location: [57909227000.0, 0.0, 0.0]
+Velocity: 47870.0 m/s
+Acceleration: 0.03959 m/s^2
+Mass: 3.3010399999999995e+23 kg
+Density: 5427.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Venus
+Location: [108208926000.0, 0.0, 0.0]
+Velocity: 35020.0 m/s
+Acceleration: 0.01134 m/s^2
+Mass: 4.8685e+24 kg
+Density: 5204.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Maa
+Location: [149690000000.0, 0.0, 0.0]
+Velocity: 29800.0 m/s
+Acceleration: 0.0055 m/s^2
+Mass: 5.974e+24 kg
+Density: 5517.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Kuu
+Location: [149985400000.0, 0.0, 0.0]
+Velocity: 30900.0 m/s
+Acceleration: 0.01047 m/s^2
+Mass: 5.5e+23 kg
+Density: 3344.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Mars
+Location: [227920000000.0, 0.0, 0.0]
+Velocity: 24007.0 m/s
+Acceleration: 0.00256 m/s^2
+Mass: 6.4185e+23 kg
+Density: 3934.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Jupiter
+Location: [778412010000.0, 0.0, 0.0]
+Velocity: 13069.7 m/s
+Acceleration: 0.00022 m/s^2
+Mass: 1.899e+27 kg
+Density: 1330.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Saturnus
+Location: [1426725400000.0, 0.0, 0.0]
+Velocity: 9672.4 m/s
+Acceleration: 7e-05 m/s^2
+Mass: 5.688e+26 kg
+Density: 690.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Uranus
+Location: [2870972200000.0, 0.0, 0.0]
+Velocity: 6835.2 m/s
+Acceleration: 2e-05 m/s^2
+Mass: 8.686e+25 kg
+Density: 1290.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Neptunus
+Location: [4498252900000.0, 0.0, 0.0]
+Velocity: 5477.8 m/s
+Acceleration: 1e-05 m/s^2
+Mass: 1.0240000000000001e+26 kg
+Density: 1640.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: Pluto
+Location: [149699000000.0, 7000000.0, 7000000.0]
+Velocity: 41833.001 m/s
+Acceleration: 2.23105 m/s^2
+Mass: 88.0 kg
+Density: 850.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: L1
+Location: [149923900000.0, 0.0, 0.0]
+Velocity: 0.0 m/s
+Acceleration: 0.00349 m/s^2
+Mass: 10.0 kg
+Density: 100.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
+Name: L2
+Location: [150046900000.0, 0.0, 0.0]
+Velocity: 0.0 m/s
+Acceleration: 0.01873 m/s^2
+Mass: 10.0 kg
+Density: 100.0 kg/m^3
+
+
+Collision: False
+Frame rate: 50Hz
+dt: 0 s
+Real time x 0
+Time span: 0 s
+
+----------------------------------
